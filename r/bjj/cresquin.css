@@ -1,0 +1,77 @@
+.flair{
+width: 48px;
+height: 16px;
+border: 0;
+padding: 0;
+margin-top: 3px;
+margin-bottom: 3px;
+vertical-align: middle;
+}
+
+.flair-white-belt{
+background: url(%%beltFlair%%) 0 0;
+}
+.flair-white-belt-1{
+background: url(%%beltFlair%%) 0 -16px;
+}
+.flair-white-belt-2{
+background: url(%%beltFlair%%) 0 -32px;
+}
+.flair-white-belt-3{
+background: url(%%beltFlair%%) 0 -48px;
+}
+.flair-white-belt-4{
+background: url(%%beltFlair%%) 0 -64px;
+}
+
+.flair-blue-belt{
+background: url(%%beltFlair%%) 0 -80px;
+}
+.flair-blue-belt-1{
+background: url(%%beltFlair%%) 0 -96px;
+}
+.flair-blue-belt-2{
+background: url(%%beltFlair%%) 0 -112px;
+}
+.flair-blue-belt-3{
+background: url(%%beltFlair%%) 0 -128px;
+}
+.flair-blue-belt-4{
+background: url(%%beltFlair%%) 0 -144px;
+}
+
+.flair-purple-belt{
+background: url(%%beltFlair%%) 0 -160px;
+}
+.flair-purple-belt-1{
+background: url(%%beltFlair%%) 0 -176px;
+}
+.flair-purple-belt-2{
+background: url(%%beltFlair%%) 0 -192px;
+}
+.flair-purple-belt-3{
+background: url(%%beltFlair%%) 0 -208px;
+}
+.flair-purple-belt-4{
+background: url(%%beltFlair%%) 0 -224px;
+}
+
+.flair-brown-belt{
+background: url(%%beltFlair%%) 0 -240px;
+}
+.flair-brown-belt-1{
+background: url(%%beltFlair%%) 0 -256px;
+}
+.flair-brown-belt-2{
+background: url(%%beltFlair%%) 0 -272px;
+}
+.flair-brown-belt-3{
+background: url(%%beltFlair%%) 0 -288px;
+}
+.flair-brown-belt-4{
+background: url(%%beltFlair%%) 0 -304px;
+}
+
+.flair-black-belt{
+background: url(%%beltFlair%%) 0 -320px;
+}
