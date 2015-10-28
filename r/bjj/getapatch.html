@@ -4,113 +4,137 @@ and open the template in the editor.
 -->
 <!DOCTYPE html>
 <html>
-    <head>
-	<title>Order a /r/bjj Patch</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<style>
-	    body{
-			width: auto;
-			height: auto;
-			margin: 80px;
-			padding: 0;
-			background: #000;
-			color: #ccc;
-	    }
-	    #container{
-			text-align: center;
-			margin: auto;
-	    }
-	    form{
-			margin: auto;
-			text-align: center;
-	    	margin: 30px 0 0 0;	
-	    }
-	    
-	    table{
-	    	text-align: center;
-	    	width: auto;
-	    	align: center;
-	    	border:none;
-			margin: auto;
-	    }
-	    #thumbs td{
-	    	width: 100px;
-	    }
-	</style>
-    </head>
-    <body>
-    
-	<div id="container">
-    <table><tr><td>
-	   <h1>Sold Out</h1>
-	    
-<div>
-<table id="thumbs" border="0"><tr><td>2011</td><td>2012</td></tr>
-<tr><td><a href="http://imgur.com/CgKVE"><img src="http://i.imgur.com/CgKVE.png" width="100" title="2011" alt="2011" /></a></td>
-<td><a href="http://imgur.com/RcoUa"><img src="http://i.imgur.com/RcoUa.png" width="100" title="2012" alt="2012" /></a></td></tr>
-</table></div>
-	    </td><!-- <td>
-	    
-	    <h1>Woven patch 5-inch diameter.</h1>
-		<h1>Shipping May 2012</h1>
-		
-		
-		<form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/858728738397330" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
-    <div>Google Checkout: $10.00 each - Free Shipping to USA, international shipping surcharge below.</div>
-                <div><select name="item_quantity_1">
-	<option value="1">1</option>
-	<option value="2">2</option>
-	<option value="3">3</option>
-	<option value="4">4</option>
-	<option value="5">5</option>
-	<option value="6">6</option>
-	<option value="7">7</option>
-	<option value="8">8</option>
-	<option value="9">9</option>
-	<option value="10">10</option>
-</select> </div>
-    
-	<input name="continue_url" type="hidden" value="http://theorigin.net/r/bjj/gotit.php">
-    <input name="item_name_1" type="hidden" value="Patch"/>
-    <input name="item_description_1" type="hidden" value="Woven Reddit /r/bjj patch, Spring 2012"/>
-    <input name="item_price_1" type="hidden" value="10"/>
-    <input name="item_currency_1" type="hidden" value="USD"/>
-    <input name="_charset_" type="hidden" value="utf-8"/>
-    <input alt="" src="https://checkout.google.com/buttons/buy.gif?merchant_id=858728738397330&amp;w=117&amp;h=48&amp;style=trans&amp;variant=text&amp;loc=en_US" type="image"/>
-</form>
 
-		
-	    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-		
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="D7JPVSRNNLAJW"><div><input type="hidden" name="amount" value="10.00">Paypal: $10.00 each - Free Shipping to USA, international shipping surcharge below.</div>
-<div><select name="quantity">
-	<option value="1">1</option>
-	<option value="2">2</option>
-	<option value="3">3</option>
-	<option value="4">4</option>
-	<option value="5">5</option>
-	<option value="6">6</option>
-	<option value="7">7</option>
-	<option value="8">8</option>
-	<option value="9">9</option>
-	<option value="10">10</option>
-</select> </div>
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<head>
+    <title>Order a /r/bjj Patch</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta property="og:image" content="http://i.imgur.com/qz0KpCt.jpg" />
+    <style>
+        body {
+            width: auto;
+            height: auto;
+            margin:  auto;
+            padding: 80px;
+            background: #fff;
+            color: #444;
+            max-width: 700px;
+        }
+        
+        .disclaimer {
+            margin-top: 2em;
+            font-size: .7em;
+        }
+        
+        #container {
+            text-align: center;
+            margin: auto;
+        }
+        
+        form {
+            margin: auto;
+            text-align: center;
+            margin: 30px 0 0 0;
+        }
+        
+        table {
+            text-align: center;
+            width: auto;
+            align: center;
+            border: none;
+            margin: auto;
+        }
+        
+        #thumbs td {
+            width: 100px;
+
+        }
+        
+        a img {
+            border-top-width: 0px;
+            border-right-width: 0px;
+            border-bottom-width: 0px;
+            border-left-width: 0px;
+            border-radius: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <div>
+            <img src="http://i.imgur.com/qz0KpCt.png" title="2015 /r/bjj patch" height="500" />
+
+           
+        </div>
+        <div class="buy">
+            <h1>Woven patch 5-inch diameter.</h1>
 
 
 
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="AA553Q773NAZ2">
+
+                <div>
+                    <input type="hidden" name="amount" value="10.00">Paypal: $10.00 each - Free Shipping to the United States</div>
+                <div>
+                    <select name="quantity">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </div>
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
 
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><div>International shipping - $13 per order (you still need to purchase your patches above). International orders without an accompanying shipping payment will be canceled.</div>
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="LFVGJH9DNXHZ2">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-</td>--></tr></table>
-</div>
-    </body>
+
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <div>For each order shipped outside the the United States there is an additional $3 international shipping surcharge per order (not per patch).
+                    <br>Orders to an address outside of the United States without an accompanying shipping payment will be canceled. You must buy patches above to receive patches.
+                    <br><b>This is just for the international shipping surcharge.</b></div>
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="LFVGJH9DNXHZ2">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+        </div>
+         <div>
+            <table id="thumbs" border="0">
+                <tr>
+                    <td>2011</td>
+                    <td>2012</td>
+                    <td>
+                        <p>2013</p>
+                    </td>
+                    <td>
+                        <p>2014</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="http://imgur.com/CgKVE"><img src="http://i.imgur.com/CgKVE.png" width="100" title="2011" alt="2011" /></a>
+                    </td>
+                    <td>
+                        <a href="http://imgur.com/RcoUa"><img src="http://i.imgur.com/RcoUa.png" width="100" title="2012" alt="2012" /></a>
+                    </td>
+                    <td>
+                        <a href="http://imgur.com/VZ4aONs.png"><img src="http://i.imgur.com/VZ4aONs.png" width="100" title="2013" alt="2013" /></a>
+                    </td>
+                    <td>
+                        <a href="http://imgur.com/8BWZ1bA.png"><img src="http://i.imgur.com/8BWZ1bA.png" width="100" title="2014" alt="2014" /></a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+</body>
+
 </html>
