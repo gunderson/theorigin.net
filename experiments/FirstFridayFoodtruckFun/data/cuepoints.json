@@ -1,0 +1,155 @@
+{
+    "video": {
+        "files": {
+            "mp4": {
+                "_1080p": "http://video.com/video_1080.mp4",
+                "_720p": "http://video.com/video_720.mp4",
+                "_480p": "http://video.com/video_480.mp4"
+            },
+            "webm": {
+                "_1080p": "http://video.com/video_1080.mp4",
+                "_720p": "http://video.com/video_720.mp4",
+                "_480p": "http://video.com/video_480.mp4"
+            }
+        },
+        "duration": 40,
+        "autoplay": false
+    },
+    "scenes": [
+        {
+            "startTime": 1,
+            "endTime": 10,
+            "id": "1nn2k3",
+            "action": "snapshot",
+            "title": "Style 0",
+            "photos": {
+                "_480": "img/_0000_01_00_style.jpg",
+                "_160": "img/_0000_01_00_style.jpg"
+            },
+            "items": [
+                {
+                    "id": "0011235813",
+                    "upc": "4122324451",
+                    "title": "Jewel Encrusted Bracelet",
+                    "manufacturer": "Zara",
+                    "price": "400.90 USD",
+                    "category": "accessories",
+                    "product_url": "http://www.louboutain.com",
+                    "photos": [{
+                        "_1024": "img/_0000_01_00.jpg",
+                        "_480": "img/_0001_01_01_style.jpg",
+                        "_160": "img/_0001_01_01_style.jpg"
+                    },
+                    {
+                        "_1024": "img/_0001_01_01.jpg",
+                        "_480": "img/_0002_01_02_style.jpg",
+                        "_160": "img/_0002_01_02_style.jpg"
+                    },
+                    {
+                        "_1024": "img/_0002_01_02.jpg",
+                        "_480": "img/_0003_01_03_style.jpg",
+                        "_160": "img/_0003_01_03_style.jpg"
+                    }]
+                }
+            ]
+        },
+        {
+            "startTime": 10,
+            "endTime": 20,
+            "id": "1nn2k3",
+            "action": "snapshot",
+            "title": "Style 1",
+            "photos": {
+                "_480": "img/_0004_02_00_style.jpg",
+                "_160": "img/_0004_02_00_style.jpg"
+            },
+            "items": [
+                {
+                    "id": "0011235813",
+                    "upc": "4122324451",
+                    "title": "Leather Jacket",
+                    "manufacturer": "Christian LouBoutain",
+                    "price": "400.00 USD",
+                    "category": "shoes",
+                    "product_url": "http://www.louboutain.com",
+                    "photos": [{
+                        "_1024": "img/_0003_02_00.jpg",
+                        "_480": "img/_0001_01_01_style.jpg",
+                        "_160": "img/_0001_01_01_style.jpg"
+                    }, {
+                        "_1024": "img/_0004_02_01.jpg",
+                        "_480": "img/_0001_01_01_style.jpg",
+                        "_160": "img/_0001_01_01_style.jpg"
+                    }, {
+                        "_1024": "img/_0005_02_02.jpg",
+                        "_480": "img/_0001_01_01_style.jpg",
+                        "_160": "img/_0001_01_01_style.jpg"
+                    }]
+                }
+            ]
+        },
+        {
+            "startTime": 20,
+            "endTime": 30,
+            "id": "1nn2k3",
+            "action": "snapshot",
+            "title": "Style 2",
+            "photos": {
+                "_480": "img/_0008_03_00_style.jpg",
+                "_160": "img/_0008_03_00_style.jpg"
+            },
+            "items": [
+                {
+                    "id": "0011235813",
+                    "upc": "4122324451",
+                    "title": "The Cartigans",
+                    "manufacturer": "Christian LouBoutain",
+                    "price": "400.00 USD",
+                    "category": "shoes",
+                    "product_url": "http://www.louboutain.com",
+                    "photos": [{
+                        "_1024": "img/_0005_02_02.jpg",
+                        "_480": "img/_0001_01_01_style.jpg",
+                        "_160": "img/_0001_01_01_style.jpg"
+                    }, {
+                        "_1024": "img/_0004_02_01.jpg",
+                        "_480": "img/_0001_01_01_style.jpg",
+                        "_160": "img/_0001_01_01_style.jpg"
+                    }]
+                }
+            ]
+        },
+        {
+            "startTime": 30,
+            "endTime": 40,
+            "id": "1nn2k3",
+            "action": "snapshot",
+            "title": "The Last Style",
+            "photos": {
+                "_480": "img/scene4.png",
+                "_160": "img/scene4.png"
+            },
+            "items": [
+                {
+                    "id": "0011235813",
+                    "upc": "4122324451",
+                    "title": "A Bracelet",
+                    "manufacturer": "Christian LouBoutain",
+                    "price": "400.00 USD",
+                    "category": "shoes",
+                    "product_url": "http://www.louboutain.com",
+                    "photos": [{
+                        "_1024": "img/_0002_01_02.jpg",
+                        "_480": "img/_0003_01_03_style.jpg",
+                        "_160": "img/_0003_01_03_style.jpg"
+                    },
+                    {
+                        "_1024": "img/_0001_01_01.jpg",
+                        "_480": "img/_0002_01_02_style.jpg",
+                        "_160": "img/_0002_01_02_style.jpg"
+                    }]
+                }
+            ]
+        }
+    ]
+}

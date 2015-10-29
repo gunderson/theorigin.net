@@ -1,0 +1,414 @@
+@font-face {
+    font-family: 'Grotesque';
+    src: url('../font/akzidenzgroteskbe-bold-webfont.eot');
+    src: url('../font/akzidenzgroteskbe-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/akzidenzgroteskbe-bold-webfont.woff') format('woff'),
+         url('../font/akzidenzgroteskbe-bold-webfont.ttf') format('truetype'),
+         url('../font/akzidenzgroteskbe-bold-webfont.svg#BertholdAkzidenzGroteskBEBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Grotesque';
+    src: url('../font/akzidenzgroteskbe-xbdcn-webfont.eot');
+    src: url('../font/akzidenzgroteskbe-xbdcn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/akzidenzgroteskbe-xbdcn-webfont.woff') format('woff'),
+         url('../font/akzidenzgroteskbe-xbdcn-webfont.ttf') format('truetype'),
+         url('../font/akzidenzgroteskbe-xbdcn-webfont.svg#BertholdAkzidenzGroteskBXBdCn') format('svg');
+    font-weight: bold;
+    font-style: condensed;
+
+}
+
+#templates{
+	display: none;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	color: #bbb;
+	background: #000;
+	width: 100%;
+	font-family: 'Grotesque';
+	font-weight: bold;
+	font-size: 18px;
+}
+
+div {
+/*	border: solid 1px #400;*/
+	text-align: center;
+}
+
+#container{
+	position: relative;
+	background: #222;
+	width: 1024px;
+	height: 580px;
+	margin: auto;
+	overflow: hidden;
+}
+
+#status{
+	position: absolute;
+	width: 314px;
+	height: 580px;
+	text-align: center;
+	padding-left: 7px;
+}
+
+.btn{
+	background-color: rgba(128, 128, 128, .3);
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	background-image: url(../img/spriteSheet.png);
+	background-position:  -10px -10px;
+}
+.btn.wide{
+	background-image: url(../img/spriteSheet.png);
+	background-position:  -60px 0px;
+}
+
+.btn:hover{
+	background-color: rgba(128, 128, 128, .7);
+}
+
+.btn.left{
+	margin:0;
+	left: 10%;
+}
+
+.btn.right{
+	margin:0;
+	left:auto;
+	right: 10%;
+}
+
+#matchScore{
+	position: absolute;
+	left: 1024px;
+}
+
+#host{
+	position: absolute;
+	width: 100%;
+	height: 100px;
+	line-height: 100px;
+}
+
+#time{
+	position: absolute;
+	width: 100%;
+	height: 175px;
+	text-align: center;
+	vertical-align: middle;
+	top: 190px;
+	font-size: 120px;
+	line-height: 175px;
+	color: #fff;
+	overflow: hidden;
+}
+
+#time #mins{
+	position: absolute;
+	width: 125px;
+	left: 20px;
+	height: 175px;
+}
+#time #sep{
+	position: absolute;
+	left: 145px;
+	width: 30px;
+}
+#time #secs{
+	position: absolute;
+	right:20px;
+	width: 125px;
+	height: 175px;
+}
+
+#division{
+	position: absolute;
+	width: 100%;
+	height: 30px;
+	top: 140px;
+	font-size: 20px;
+	line-height: 30px;
+	
+}
+
+#pause{
+	position: absolute;
+	width: 90%;
+	height: 50px;
+	bottom: 10px;
+	font-size: 20px;
+	line-height: 50px;
+	background-color: #666;
+	display: none;
+	margin: 0 5%;
+}
+
+#start{
+	position: absolute;
+	width: 90%;
+	height: 50px;
+	bottom: 10px;
+	font-size: 20px;
+	line-height: 50px;
+	background-color: #666;
+	margin: 0 5%;
+}
+
+#submit{
+	position: absolute;
+	width: 90%;
+	height: 50px;
+	bottom: 65px;
+	font-size: 20px;
+	line-height: 50px;
+	background-color: #711;
+	margin: 0 5%;
+}
+
+#reset{
+	position: absolute;
+	width: 90%;
+	height: 50px;
+	bottom: 120px;
+	font-size: 20px;
+	line-height: 50px;
+	background-color: #444;
+	margin: 0 5%;
+}
+
+.player{
+	position: absolute;
+	left: 324px;
+}
+
+#player0{
+	position: absolute;
+	background: #224;
+	top: 0px;
+	width: 700px;
+	height: 290px;
+}
+
+#player1{
+	position: absolute;
+	background: #333;
+	top: 290px;
+	width: 700px;
+	height: 290px;
+}
+
+#name{
+	position: absolute;
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+}
+
+.numberContainer{
+	overflow: hidden;
+}
+
+.display{
+	position: absolute;
+	width: 100%;
+}
+
+.next{
+	display: none;
+}
+
+.current{
+	
+}
+
+#points, #deductions, #advantages{
+	position: absolute;
+	top: 30px;
+	height: 260px;
+	line-height: 260px;
+	font-size: 180px;
+	background-image: url(../img/spriteSheet.png);
+	background-position:  0px -64px;
+}
+
+#points{
+	width: 300px;
+}
+
+#points .display{
+	color: #fff;
+	font-size: 180px;
+}
+
+#deductions{
+	left: 300px;
+	width: 200px;
+	background-color: rgba(128, 32, 32, .9);
+}
+
+#advantages .display, #deductions .display{
+	opacity: .6;
+	font-size: 140px;
+}
+	
+#advantages{
+	left: 500px;
+	width: 200px;
+	background-color: rgba(0, 0, 0, .4);
+}
+
+.plus{
+	position: absolute;
+	margin-left: -15px;
+	top: 5px;
+	left: 50%;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 20px;
+}
+
+.minus{
+	position: absolute;
+	margin-left: -15px;
+	bottom: 5px;
+	left: 50%;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 20px;
+}
+
+.overlay{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	display: none;
+	opacity: 0;
+	background-color: #000;
+}
+
+/*
+/ 
+/ ADMIN
+/
+*/
+
+#adminMenu{
+	display: block;
+	width: 204px;
+	height: 580px;
+	position: absolute;
+	background: #222;
+	top: 0px;
+	left:-204px;
+	box-shadow: 0 0 15px #000;
+	font-size:14px;
+}
+.menuTitle{
+	height: 50px;
+	line-height: 50px;
+	font-size:20px;
+	border-bottom: 1px solid #333;
+}
+
+.menuItem{
+	position: relative;
+}
+
+.menuBullet{
+	background: url(../img/spriteSheet.png) -352px 0px;
+	width: 20px;
+	height: 19px;
+	position: absolute;
+	right: 10px;
+	top: 50%;
+	margin-top: -10px;
+}
+
+.over .menuBullet{
+	background: url(../img/spriteSheet.png) -352px -20px;
+}
+
+.menuItemButton{
+	position: relative;
+	margin: 1px;
+	height: 50px;
+	line-height: 50px;
+	background-color: #333;
+}
+
+.over .menuItemButton{
+	color: #333;
+	background-color: #bbb;
+}
+
+#nib{
+	position: absolute;
+	top:0px;
+	right: -60px;
+	width: 60px;
+	height: 60px;
+	background-image: url(../img/spriteSheet.png);
+	background-position: -440px 0px;
+}
+
+#nib:hover{
+	background-position: -380px 0px;
+}
+
+audio{
+	display: none;
+}
+
+.bracket{
+	display: block;
+	position: absolute;
+	height: 600px;
+	width: 1024px;
+	background: #fff;
+	opacity: 1;
+}
+.bracket .round{
+	position: absolute;
+}
+
+.matchup{
+	position: absolute;
+}
+
+.bracket .matchup .bracketPosition{
+	position: absolute;
+	width: 240px;
+	height: 40px;
+	padding: 0px;
+	border-bottom: 1px solid #000;
+}
+
+.bracket .matchup .player0{
+}
+
+.bracket .matchup .player1{
+}
+.bracket .matchup .winner{
+	left: 240px;
+	height: 0;
+}
+
+.bracket .matchup .connector{
+	width: 239px;
+	height: 41px;
+	left: 0;
+	position:absolute;
+	border-right: 1px solid #000;
+}

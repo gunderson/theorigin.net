@@ -1,0 +1,169 @@
+#shareblock{
+	position: absolute;
+	width: 80px;
+	bottom: 0px;
+	left: 0px;
+	z-index: 100;
+}
+
+.share{
+	margin: 10px;
+text-align: center;
+}
+
+#colormapPicker{
+	text-align: center;
+	width: 320px;
+	height: 200px;
+	top: 50%;
+	left:50%;
+	margin-left: -180px;
+	margin-top: -120px;
+	padding: 20px;
+	position: absolute;
+	background-color: #333;
+	z-index: 1000;
+	border-radius: 8px;
+}
+
+div.dg.ac{
+	z-index: 10;
+}
+
+html, body { 
+    display: block;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+    font-family: Arial,Helvetica,sans-serif;
+    color: #cccccc;
+	font-size: 11px;
+    font-style: normal;
+	font-weight: normal;
+	background-color: #000000;
+}
+
+#contentWrapper {
+    display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu {
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	background: rgba(0, 0, 0, 0.3);
+	z-index: 1000;
+	padding: 30px;
+	border-right: 1px solid #222222;
+	border-bottom: 1px solid #222222;
+}
+
+#buttons {
+    padding-top: 20px;
+}
+
+#buttons div {
+    padding: 5px;
+    text-align: center;
+}
+
+#byline {
+	font-size: .4em;
+    text-align: center;
+}
+
+a, a:visited, a:active{
+	font-weight: normal;
+	color: #8d97b9;
+}
+
+a:hover{
+	font-weight: normal;
+	color:#86c6b5;
+}
+
+#alignmentRadio {
+    text-align: center;
+}
+
+#drawMethodRadio {
+	margin-top: 15px;
+    text-align: center;
+}
+
+#drawer {
+	position: absolute;
+	z-index: 1;
+	background-color: #ff0000;
+}
+
+
+#hideOptionsBtn, #showOptionsBtn {
+    
+    position: absolute;
+    width: 200px;
+    top:30px;
+    left: 370px;
+}
+#resetBtn{
+	margin-top: 5px
+}
+#sharing{
+	margin-top: 15px;
+	text-align: center;
+}
+#sharing div{
+	display: inline;
+	float: left;
+	margin: 2px;
+	padding: 0px;
+}
+
+.file-wrapper {
+  cursor: pointer;
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+}
+
+.file-wrapper input {
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  filter: alpha(opacity=1);
+  -moz-opacity: 0.01;
+  opacity: 0.01;
+  border:0;
+  font-size: 100px;
+  z-index: 10;
+}
+
+#colormapHolder{
+    display: none;
+}
+
+.favoriteImg{
+	border: #333 solid 1px;
+}
+
+#header{
+	background-color: rgba(0,0,0,.5);
+	height: 20px;
+	line-height: 20px;
+	position: absolute;
+	z-index: 2;
+	padding-right: 20px;
+}
+
+#title{
+	margin: 0px 20px;
+	letter-spacing: 3px;
+	
+}

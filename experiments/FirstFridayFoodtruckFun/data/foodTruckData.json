@@ -1,0 +1,39 @@
+{
+	"results":
+	[
+		{	
+			"type": "truck", // denotes a special class of content creator
+			"username": "atothek",
+			"time": "2012-11-10 19:00:12",
+			"coordinates": {
+				"lat": 33.99192,
+				"long": -118.43352
+			},
+			"source": "twitter",
+			"title": "",
+			"content": "My great tweet is less than 140 chars.",
+			"image": "https://twitter.com/",
+			"url": "https://twitter.com/TechCrunch/status/266598776226058240"
+			"original":{
+				//original object from api feed
+			}
+		},
+		{	
+			"type": "", // empty string is default
+			"username": "atothek",
+			"time": "2012-11-10 19:00:12",
+			"coordinates": {
+				"lat": 33.99192,
+				"long": -118.43352
+			},
+			"source": "instagram",
+			"title": "It's called...",
+			"content": "My great tweet is less than 140 chars.",
+			"image": "https://twitter.com/",
+			"url": "https://twitter.com/TechCrunch/status/266598776226058240"
+			"original":{
+				//original object from api feed
+			}
+		}
+	]
+}

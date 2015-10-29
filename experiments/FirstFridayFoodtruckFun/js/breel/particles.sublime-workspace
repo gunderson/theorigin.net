@@ -1,0 +1,1943 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"spli",
+				"split"
+			],
+			[
+				"mod",
+				"moduleId"
+			],
+			[
+				"time",
+				"timeScale"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"draw",
+				"drawForces"
+			],
+			[
+				"force",
+				"forceEffect"
+			],
+			[
+				"getF",
+				"getForceEffectOn"
+			],
+			[
+				"stage",
+				"stageHeight"
+			],
+			[
+				"st",
+				"stageWidth"
+			],
+			[
+				"sa",
+				"scalarX"
+			],
+			[
+				"fo",
+				"forceEffect"
+			],
+			[
+				"n",
+				"NEUTRAL"
+			],
+			[
+				"NE",
+				"NEGATIVE"
+			],
+			[
+				"for",
+				"force"
+			],
+			[
+				"parti",
+				"particles"
+			],
+			[
+				"po",
+				"power"
+			],
+			[
+				"_",
+				"_dy  (variable)"
+			],
+			[
+				"f",
+				"Force"
+			],
+			[
+				"partic",
+				"particles"
+			],
+			[
+				"c",
+				"controller  (variable)"
+			],
+			[
+				"display",
+				"displayObject"
+			],
+			[
+				"sta",
+				"stageHeight"
+			],
+			[
+				"dis",
+				"displayObject"
+			],
+			[
+				"enter",
+				"enterFrameBeacon"
+			],
+			[
+				"echo",
+				"echoFormattedAs"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"add",
+				"addDataToGame"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"json_",
+				"json_decode"
+			],
+			[
+				"start",
+				"startIce"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"P",
+				"PAGE_LOAD_ANIMATION_COMPLETE"
+			],
+			[
+				"dispa",
+				"dispatchEvent"
+			],
+			[
+				"to",
+				"toSdp"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"Obj",
+				"object"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"str_R",
+				"str_replace"
+			],
+			[
+				"string",
+				"string_result"
+			],
+			[
+				"co",
+				"\"Courier New\", Courier, monospace"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"newC",
+				"newCodeJSON"
+			],
+			[
+				"new",
+				"newCode"
+			],
+			[
+				"resul",
+				"result_obj"
+			],
+			[
+				"requ",
+				"requireParam"
+			],
+			[
+				"totl",
+				"totalContent"
+			],
+			[
+				"media_",
+				"media_id"
+			],
+			[
+				"un",
+				"unbind"
+			],
+			[
+				"ne",
+				"newPageURL"
+			],
+			[
+				"page",
+				"pageCache"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wat",
+				"watch_title"
+			],
+			[
+				"watch",
+				"watch_num"
+			],
+			[
+				"watch_e",
+				"watch_episodes"
+			],
+			[
+				"ultra",
+				"ultra_promotion"
+			],
+			[
+				"sceneLis",
+				"sceneListTitle"
+			],
+			[
+				"mainN",
+				"mainNavMenu"
+			],
+			[
+				"main",
+				"main_casting_select_wrapper"
+			],
+			[
+				"mainMod",
+				"mainModuleVideoCta"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"tm",
+				"tmContent"
+			],
+			[
+				"conte",
+				"contentObject"
+			],
+			[
+				"in",
+				"inactiveMessage"
+			],
+			[
+				"watch_fb",
+				"watch_fb_share_right"
+			],
+			[
+				"watch_en",
+				"watch_endcard_table"
+			],
+			[
+				"mainM",
+				"mainModulePhotoCta"
+			],
+			[
+				"mainIn",
+				"mainIntroVideo_capion"
+			],
+			[
+				"Se",
+				"\"MS Serif\""
+			],
+			[
+				"swf",
+				"swfobject"
+			],
+			[
+				"sw",
+				"swfobject"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"max",
+				"maxWidth"
+			],
+			[
+				"poso",
+				"position"
+			],
+			[
+				"down",
+				"downScroller"
+			],
+			[
+				"scrollD",
+				"scrollDownEnd"
+			],
+			[
+				"star",
+				"scrollDownStart"
+			],
+			[
+				"mou",
+				"mouseenter"
+			],
+			[
+				"fr",
+				"frameInterval"
+			],
+			[
+				"sc",
+				"scrollUpTimer"
+			],
+			[
+				"ma",
+				"maxOffset"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"gallery",
+				"galleryData"
+			],
+			[
+				"feat",
+				"features_list_7"
+			],
+			[
+				"breel",
+				"breelOption"
+			],
+			[
+				"ja",
+				"ja"
+			],
+			[
+				"gall",
+				"galleryData"
+			],
+			[
+				"galler",
+				"gallery_id"
+			],
+			[
+				"content",
+				"content_id"
+			],
+			[
+				"get",
+				"getCurrentValues"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"yt",
+				"yt_player"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"click",
+				"clicky"
+			],
+			[
+				"su",
+				"substr"
+			],
+			[
+				"ani",
+				"animationTime"
+			],
+			[
+				"nth-ch",
+				":nth-child(|)"
+			],
+			[
+				"outli",
+				"outlineTitle"
+			],
+			[
+				"Json",
+				"JSON"
+			],
+			[
+				"Tim",
+				"\"Times New Roman\""
+			],
+			[
+				"me",
+				"mediaLinkData"
+			],
+			[
+				"Time",
+				"\"Times New Roman\", Times, serif"
+			],
+			[
+				"img",
+				"img0"
+			],
+			[
+				"l",
+				"leftArrow"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"mei",
+				"mediaInfo"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"option",
+				"optionHolder"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"APP_",
+				"APP_SECRET"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"photo",
+				"photoContainer"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"category",
+				"categoryName"
+			],
+			[
+				"cou",
+				"country"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Library/WebServer/Documents/workspace/Particles/deploy/index.html",
+			"settings":
+			{
+				"buffer_size": 694,
+				"line_ending": "Unix",
+				"name": "<html>"
+			}
+		},
+		{
+			"file": "/Library/WebServer/Documents/workspace/Particles/deploy/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1934,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "canvas/breel.display.Stage.js",
+			"settings":
+			{
+				"buffer_size": 2709,
+				"line_ending": "Unix",
+				"name": "breel.display.Stage.js"
+			}
+		},
+		{
+			"file": "physics/breel.physics.Universe.js",
+			"settings":
+			{
+				"buffer_size": 2721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "physics/breel.physics.SimpleParticle.js",
+			"settings":
+			{
+				"buffer_size": 3766,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "physics/breel.physics.Force.js",
+			"settings":
+			{
+				"buffer_size": 2201,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "breel.utils.js",
+			"settings":
+			{
+				"buffer_size": 12063,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"au",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"aut",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"AU",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"FORM",
+				"Format: Javascript"
+			],
+			[
+				"FOR",
+				"Format: Javascript"
+			],
+			[
+				"pre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"j",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"contr",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Library/WebServer/Documents/workspace/Particles/deploy/css/main.css",
+		"/Library/WebServer/Documents/workspace/Particles/deploy/js/main.js",
+		"/Library/WebServer/Documents/workspace/Particles/deploy/js/breel/breel.utils.js",
+		"/Library/WebServer/Documents/workspace/Particles/deploy/js/breel/physics/breel.physics.Force.js",
+		"/Library/WebServer/Documents/workspace/Particles/deploy/js/breel/physics/breel.phyics.simpleParticle.js",
+		"/Library/WebServer/Documents/workspace/Particles/deploy/js/breel/breel.physics.Universe.js",
+		"/Library/WebServer/Documents/workspace/Particles/deploy/js/breel/breel.physics.Force",
+		"/Library/WebServer/Documents/workspace/Particles/deploy/js/breel/breel.phyics.simpleParticle.js",
+		"/Library/WebServer/Documents/workspace/Particles/deploy/js/breel/breel.physics.Universe",
+		"/Applications/Sublime Text 2.app/Contents/MacOS/sublime_plugin.py",
+		"/Library/WebServer/Documents/workspace/google_chromePong/deploy/js/script.js",
+		"/Library/WebServer/Documents/workspace/google_chromePong/deploy/services/data/activeList.json",
+		"/Library/WebServer/Documents/workspace/google_chromePong/deploy/services/api.php",
+		"/Library/WebServer/Documents/workspace/google_chromePong/deploy/js/breel/breel.utils.js",
+		"/Library/WebServer/Documents/workspace/google_chromePong/deploy/js/breel/breel.RadioGroup.js",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/tropo/tropoLoginScript.js",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/index.html",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/resources/sampleLocation.txt",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/index.php",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/services/api.php",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/js/index.js",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/services/tropo_personOfInterst.php",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/js/script.js",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/services/tropo.class.php",
+		"/Library/WebServer/Documents/workspace/PersonOfInterst/services/tropo-rest.class.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_chooseScene.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_chooseScene.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/index.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_photos.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_nav.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/css/style.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.DropDown.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_gallery.watchVideosCarousel.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_home.php",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/api_cache.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_gallery.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/script.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.Carousel.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/trackingPixels_normal.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/trackingPixels_confirm.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.PageSwitcher.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/ultrabook_script.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/watch_script.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/watch/index.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_gallery.videoPlayer.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/ultrabook_page.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_gallery.photoPlayer.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_home.featuredVideosCarousel.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/ultrabook/index.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/jquery-1.7.2.min.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/jquery.pp.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_webcam.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_choosePhoto.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/contentDataGetter.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/base64.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/watch_page.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_form.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_nav.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_nav.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/css/tube.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/ogTags.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/contentPlacer.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/modal_videoPlayer.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_confirm.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_confirm.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/.htaccess",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/jquery.ajaxfileupload.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_howItWorks.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/use.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/old_script.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/privacy/css/style.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/css/style.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_intro.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_nav.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/css/old_style.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_record.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_intro.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/refreshData.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/en.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.utils.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_audition.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/jquery.xml2json.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/lang/en.xml",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/locale/us.xml",
+		"/var/folders/sk/1bzjt9qd2gz7x64qdq8cp0kc0000gn/T/sublime-svn-1342821307/SVN",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/debugTools.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.Paginator.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.RadioGroup.js",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/JsMinifier/Minifier.sublime-settings",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/User/JSHINT.sublime-settings",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/sublime-V8/JSHINT.sublime-settings",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/css/video-js.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/modal_photoPicker.php",
+		"/Library/WebServer/Documents/workspace/Experiments/iframeTest/child.html",
+		"/Library/WebServer/Documents/workspace/Experiments/iframeTest/index.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/zh.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/ch.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/pt.html",
+		"/var/folders/sk/1bzjt9qd2gz7x64qdq8cp0kc0000gn/T/sublime-svn-1342142296/SVN",
+		"/var/folders/sk/1bzjt9qd2gz7x64qdq8cp0kc0000gn/T/sublime-svn-1342142256/SVN",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/pass.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.paginator.js",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/var/folders/sk/1bzjt9qd2gz7x64qdq8cp0kc0000gn/T/sublime-svn-1341622616/SVN",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/inside.sublime-project"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel",
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside/flash/fla/tm_webcam_test",
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel",
+			"",
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"trace",
+			"polarity",
+			";\n",
+			":",
+			",\n	",
+			"trace",
+			"console.log",
+			"nable",
+			"paddle_right",
+			".role",
+			"getUserM",
+			"myVid",
+			"theirVid",
+			"videoRight",
+			"receiveVideo",
+			"startPollIngGameStatus",
+			"checkGameStatus",
+			"processIceMessage",
+			"breel.connection.startIce();",
+			"pc.startIce();",
+			"breel.createGame.joinGame",
+			"onIceCandidate",
+			"gameID",
+			"breel.currentGame",
+			"checkGameStatus",
+			"pageLoadAnimationComplete",
+			"pageReadyListenerId",
+			"pageLoadedListenerId",
+			"iceCallback1",
+			"pc1",
+			"no_re",
+			"depentant",
+			"dependant",
+			"stageWidth",
+			"index",
+			"getLocation",
+			"no_results",
+			"getNewCode",
+			"}}",
+			"{{",
+			"<!doctype html>\n<!--[if lt IE 7]> <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js lt-ie9 lt-ie8\" lang=\"en\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js lt-ie9\" lang=\"en\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en\"> <!--<![endif]-->\n<head>\n	<meta charset=\"utf-8\">\n	<meta name=\"viewport\" content=\"width=810, maximum-scale=1.0,minimum-scale=1.0\" />\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n\n	<title>POI phone</title>\n	<meta name=\"viewport\" content=\"width=device-width, maximum-scale=1.0,minimum-scale=1.0\" />\n\n	<script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js\"></script>\n	<script>window.jQuery || document.write('<script src=\"js/libs/jquery-1.7.2.min.js\"><\\/script>')</script>\n	<script type=\"text/javascript\" src=\"js/breel/breel.utils.js\"></script>\n	<script type=\"text/javascript\" src=\"js/script.js\"></script>\n	\n</head>\n<body>\n	<div id=\"welcomeMessageDisplay\">(310) 853-1622<br>Skype: +990009369996147730</div>\n	<div id=\"codeDisplay\"></div>\n	<div id=\"getCodeButtonHolder\">\n		<button onclick=\"breel.index.getNewCode()\">Get Code</button>\n	</div>\n	<script type=\"text/javascript\" src=\"js/index.js\"></script>\n</body>\n</html>",
+			"options",
+			"current",
+			"a{",
+			".cta",
+			"unbind",
+			"downScroller",
+			"photosSceneCarousel.quickTransition",
+			"quickTransition",
+			"photosSceneDetailsHolderTemplate",
+			"photosSceneDetail",
+			"sceneDetail",
+			"ceneDetailsHolder",
+			"photoSceneOutline",
+			"#sceneOutline",
+			"sceneList",
+			"breel.root.pageLoadAnimationComplete",
+			"showContent",
+			"contentNav",
+			"breel.photosSceneCarousel",
+			"breel.photosSceneCarousel.",
+			"loadSceneDetails",
+			"sceneCarouselBg.jpg",
+			"sceneCarousel",
+			"YT",
+			".animate",
+			"display",
+			"trace",
+			"linkifyCarouselItem",
+			"mediaLinkData",
+			"linkifyCarouselItem",
+			"getloca",
+			"outlineTitle",
+			".en ",
+			"show_promotion",
+			"ultra_promotion",
+			"uploadImgFile",
+			".en .sceneOutline{\n	font-family: \"Conv_HandTIMES\";\n}",
+			"times new",
+			"upload",
+			"ultra_like",
+			"play-b",
+			"videoHolder",
+			"UploadStatus",
+			"upload",
+			"main_camera_",
+			"background: url(\"https://beautyinside.thismoment.com/breel/img/ultrabook_spritesheet.jpg\")",
+			"clickVideoThumb",
+			"h2",
+			"#inactiveMessage",
+			"inactiveMessage",
+			"main_record_ma",
+			"profile.png",
+			"hand",
+			"ultra_feature_wr",
+			"Conv_HandTIMES",
+			"handT",
+			"profile",
+			"shareFilmOnFB",
+			"postToFace",
+			"app_data",
+			"&app_data",
+			"354740294597258",
+			"scriptsLoaded\"",
+			"onSceneLoadComplete",
+			".title",
+			"spinner1",
+			"spinner0",
+			"spinner*.gif",
+			"spinner",
+			"http://",
+			"YT",
+			"substr(6)",
+			"90x90.png",
+			"presented",
+			"Presented by Toshiba and Intel",
+			"height:",
+			".png",
+			"auditionNavMenu",
+			"downArrow",
+			"slef",
+			"#optionHolder",
+			"self.rootNode",
+			"middle_wrapper_t",
+			"main_photo_front",
+			"http://beauty",
+			"h2",
+			"setupVideos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" =",
+			" =\n	this.",
+			";\n	this.",
+			"videoRight",
+			"videoLeft",
+			"gameId",
+			"breel.connection1",
+			"dependent",
+			"breel.stageWidth",
+			"createGame",
+			"##",
+			"photosSceneDetail",
+			"#photoSceneOutline",
+			"photoSceneList",
+			"photosSceneCarousel",
+			"-webkit-background-size: 759px 3743px;background: url(\"https://beautyinside.thismoment.com/breel/img/ultrabook_spritesheet.jpg\")",
+			"self",
+			"https://beauty",
+			"spinner1",
+			"Arial",
+			"Ariel",
+			"beautyinside.thismoment.com",
+			"_info .watch_release\"",
+			"indexOfEpisodeByCategoryName",
+			"yt_player",
+			"yt_player.",
+			"\n	<script src=\"js/breel/breel.PageSwitcher.js\"></script>",
+			"this",
+			"thie",
+			",",
+			"url(\"http://beautyinside.thismoment.com/breel/img/",
+			"onmousedown=",
+			"url('http://beautyinside.thismoment.com/breel/img/",
+			"url(http://beautyinside.thismoment.com/breel/img/",
+			"url(\"http://beautyinside.thismoment.com/breel/img/",
+			"\"<?=$APP_ROOT?>img/",
+			"</li><li>",
+			".hide();",
+			".css(\"display\",\"none\");",
+			"inline-block",
+			"<sup>*</sup></div>",
+			"submitForm_country_option",
+			"recordFormCountryDD",
+			"submitForm_country_option",
+			"submitForm_year_option",
+			"ultrabook_spritesheet.jpg",
+			"categoryName",
+			".css(\"display\",\"table-cell\")",
+			".css(\"display\",\"none\").",
+			".css(\"display\",\"none\")",
+			"submitForm_month_option",
+			"ultrabook_spritesheet",
+			",",
+			"../img/",
+			"../img",
+			"../img/spriteSheet",
+			"../img/ultrabook",
+			"watchVideosCarousel",
+			":,\nwatchVideosCarousel",
+			":, \n					",
+			":,\n",
+			":,\\n",
+			"6e82b7",
+			"6e82b7\n6e82b7",
+			"upload_photo",
+			"gotoPageFunction"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Library/WebServer/Documents/workspace/Particles/deploy/index.html",
+					"settings":
+					{
+						"buffer_size": 694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								267
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "<html>",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Library/WebServer/Documents/workspace/Particles/deploy/js/main.js",
+					"settings":
+					{
+						"buffer_size": 1934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								48
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "canvas/breel.display.Stage.js",
+					"settings":
+					{
+						"buffer_size": 2709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								783,
+								839
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "breel.display.Stage.js",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "physics/breel.physics.Universe.js",
+					"settings":
+					{
+						"buffer_size": 2721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								266
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "physics/breel.physics.SimpleParticle.js",
+					"settings":
+					{
+						"buffer_size": 3766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3716,
+								3716
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1638.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "physics/breel.physics.Force.js",
+					"settings":
+					{
+						"buffer_size": 2201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 618.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "breel.utils.js",
+					"settings":
+					{
+						"buffer_size": 12063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 67.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_chooseScene.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}

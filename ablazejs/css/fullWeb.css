@@ -1,0 +1,132 @@
+
+
+html, body { 
+    display: block;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+        
+    font-family: Arial,Helvetica,sans-serif;
+    color: #cccccc;
+    font-style: normal;
+	font-weight: normal;
+	background-color: #000000;
+}
+
+#contentWrapper {
+    display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu {
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	background: rgba(0, 0, 0, 0.3);
+	z-index: 1000;
+	padding: 30px;
+	border-right: 1px solid #222222;
+	border-bottom: 1px solid #222222;
+}
+
+#buttons {
+    padding-top: 20px;
+}
+
+#buttons div {
+    padding: 5px;
+    text-align: center;
+}
+
+#byline {
+	font-size: .4em;
+    text-align: center;
+}
+
+a, a:visited, a:active{
+	font-weight: normal;
+	color: #ff8800;
+}
+
+a:hover{
+	font-weight: normal;
+	color:#0078a3;
+}
+
+#alignmentRadio {
+    text-align: center;
+}
+
+#drawMethodRadio {
+	margin-top: 15px;
+    text-align: center;
+}
+
+#drawer {
+	position: absolute;
+	z-index: 1;
+	background-color: #ff0000;
+}
+
+input {
+    border:0;
+    color: #ff8800;
+    background-color: rgba(0,0,0,0);
+    width:50px;
+}
+
+#hideOptionsBtn, #showOptionsBtn {
+    
+    position: absolute;
+    width: 200px;
+    top:30px;
+    left: 370px;
+}
+#resetBtn{
+	margin-top: 5px
+}
+#sharing{
+	margin-top: 15px;
+	text-align: center;
+}
+#sharing div{
+	display: block;
+	float: left;
+	margin: 2px;
+	padding: 0px;
+	width: 60px;
+}
+
+.badge{
+	clear: both;
+	width: 100%;
+	text-align: center;
+}
+
+.file-wrapper {
+  cursor: pointer;
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+}
+
+.file-wrapper input {
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  filter: alpha(opacity=1);
+  -moz-opacity: 0.01;
+  opacity: 0.01;
+  border:0;
+  font-size: 100px;
+  z-index: 10;
+}
+
+#colormapHolder{
+    display: none;
+}

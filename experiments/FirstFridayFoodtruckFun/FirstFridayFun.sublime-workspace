@@ -1,0 +1,1900 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"an",
+				"angleOffset"
+			],
+			[
+				"ra",
+				"radarpoint"
+			],
+			[
+				"get",
+				"getContext"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"g",
+				"getImageData  (function)"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"st",
+				"stopPropagation  (function)"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"ma",
+				"makeItemSets"
+			],
+			[
+				"last",
+				"lastChild  (variable)"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tr",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hide",
+				"hideIndicator"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"cue",
+				"cuePointLoop"
+			],
+			[
+				"item",
+				"itemHolder"
+			],
+			[
+				"pre",
+				"prevTime"
+			],
+			[
+				"ho",
+				"hotspot0"
+			],
+			[
+				"m",
+				"main-container"
+			],
+			[
+				"espre",
+				"espressoMartini"
+			],
+			[
+				"ice",
+				"icedLatte"
+			],
+			[
+				"le",
+				"lecheMartini"
+			],
+			[
+				"coc",
+				"cocoColada"
+			],
+			[
+				"root",
+				"rootBeer"
+			],
+			[
+				"fblik",
+				"fblikeDrink"
+			],
+			[
+				"watch_",
+				"watch_info"
+			],
+			[
+				"like",
+				"likeHolder"
+			],
+			[
+				"force",
+				"force_refresh"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"tye",
+				"typeof"
+			],
+			[
+				"mem",
+				"memcache"
+			],
+			[
+				"json",
+				"json_result"
+			],
+			[
+				"lan",
+				"langfile"
+			],
+			[
+				"carous",
+				"carouselLength  (variable)"
+			],
+			[
+				"page",
+				"pageId"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"tm",
+				"tm_webcam_test"
+			],
+			[
+				"flash",
+				"flashContentHolder"
+			],
+			[
+				"totl",
+				"totalContent"
+			],
+			[
+				"media_",
+				"media_id"
+			],
+			[
+				"un",
+				"unbind"
+			],
+			[
+				"new",
+				"newPageURL"
+			],
+			[
+				"ne",
+				"newPageURL"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wat",
+				"watch_title"
+			],
+			[
+				"watch",
+				"watch_num"
+			],
+			[
+				"watch_e",
+				"watch_episodes"
+			],
+			[
+				"ultra",
+				"ultra_promotion"
+			],
+			[
+				"sceneLis",
+				"sceneListTitle"
+			],
+			[
+				"mainN",
+				"mainNavMenu"
+			],
+			[
+				"main",
+				"main_casting_select_wrapper"
+			],
+			[
+				"mainMod",
+				"mainModuleVideoCta"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"conte",
+				"contentObject"
+			],
+			[
+				"in",
+				"inactiveMessage"
+			],
+			[
+				"watch_fb",
+				"watch_fb_share_right"
+			],
+			[
+				"watch_en",
+				"watch_endcard_table"
+			],
+			[
+				"mainM",
+				"mainModulePhotoCta"
+			],
+			[
+				"mainIn",
+				"mainIntroVideo_capion"
+			],
+			[
+				"Se",
+				"\"MS Serif\""
+			],
+			[
+				"swf",
+				"swfobject"
+			],
+			[
+				"sw",
+				"swfobject"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"max",
+				"maxWidth"
+			],
+			[
+				"poso",
+				"position"
+			],
+			[
+				"down",
+				"downScroller"
+			],
+			[
+				"scrollD",
+				"scrollDownEnd"
+			],
+			[
+				"star",
+				"scrollDownStart"
+			],
+			[
+				"mou",
+				"mouseenter"
+			],
+			[
+				"fr",
+				"frameInterval"
+			],
+			[
+				"sc",
+				"scrollUpTimer"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"gallery",
+				"galleryData"
+			],
+			[
+				"feat",
+				"features_list_7"
+			],
+			[
+				"breel",
+				"breelOption"
+			],
+			[
+				"ja",
+				"ja"
+			],
+			[
+				"gall",
+				"galleryData"
+			],
+			[
+				"galler",
+				"gallery_id"
+			],
+			[
+				"content",
+				"content_id"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"yt",
+				"yt_player"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"click",
+				"clicky"
+			],
+			[
+				"su",
+				"substr"
+			],
+			[
+				"ani",
+				"animationTime"
+			],
+			[
+				"nth-ch",
+				":nth-child(|)"
+			],
+			[
+				"outli",
+				"outlineTitle"
+			],
+			[
+				"Json",
+				"JSON"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"Tim",
+				"\"Times New Roman\""
+			],
+			[
+				"me",
+				"mediaLinkData"
+			],
+			[
+				"c",
+				"clear"
+			],
+			[
+				"Time",
+				"\"Times New Roman\", Times, serif"
+			],
+			[
+				"img",
+				"img0"
+			],
+			[
+				"l",
+				"leftArrow"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"mei",
+				"mediaInfo"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"option",
+				"optionHolder"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"APP_",
+				"APP_SECRET"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"photo",
+				"photoContainer"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"category",
+				"categoryName"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"media",
+				"media_id"
+			],
+			[
+				"DIV",
+				"div"
+			],
+			[
+				"Di",
+				"display"
+			],
+			[
+				"hi",
+				"hideModal"
+			],
+			[
+				"load",
+				"loadNewPage"
+			],
+			[
+				"mod",
+				"modules"
+			],
+			[
+				"med",
+				"media"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 12728,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 149 files for \"MediaPoint\"\n\n/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/FirstFridayFun.sublime-workspace:\n  537  		},\n  538  		{\n  539: 			\"file\": \"js/breel/app/MediaPoint.js\",\n  540  			\"settings\":\n  541  			{\n  542  				\"buffer_size\": 517,\n  543  				\"line_ending\": \"Unix\",\n  544: 				\"name\": \"MediaPoint.js\"\n  545  			}\n  546  		},\n  ...\n 1311  				{\n 1312  					\"buffer\": 2,\n 1313: 					\"file\": \"js/breel/app/MediaPoint.js\",\n 1314  					\"settings\":\n 1315  					{\n ....\n 1327  						\"settings\":\n 1328  						{\n 1329: 							\"auto_name\": \"MediaPoint.js\",\n 1330  							\"is_xml\": false,\n 1331  							\"syntax\": \"Packages/JavaScript/JavaScript.tmLanguage\"\n\n/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/js/main.js:\n   29  \n   30  breel.model.ak = [\n   31: 	new breel.display.MediaPoint({\n   32  		geo: {\n   33  			coordinates: [33.992443, -118.473784]\n   34  		}\n   35: 	}), new breel.display.MediaPoint({\n   36  		geo: {\n   37  			coordinates: [33.991411, -118.46902]\n   38  		}\n   39: 	}), new breel.display.MediaPoint({\n   40  		geo: {\n   41  			coordinates: [33.99013, -118.464128]\n   42  		}\n   43: 	}), new breel.display.MediaPoint({\n   44  		geo: {\n   45  			coordinates: [33.989223, -118.462669]\n   46  		}\n   47: 	}), new breel.display.MediaPoint({\n   48  		geo: {\n   49  			coordinates: [33.985042, -118.470072]\n   50  		}\n   51: 	}), new breel.display.MediaPoint({\n   52  		geo: {\n   53  			coordinates: [33.991607, -118.475372]\n   ..\n  108  		record = data.results[i];\n  109  		if (record.type == \"truck\"){\n  110: 			trucks.push( new breel.display.MediaPoint(record) );\n  111  		} else {\n  112: 			standard.push( new breel.display.MediaPoint(record) );\n  113  		}\n  114  	}\n  ...\n  165  };\n  166  \n  167: breel.app.translateCoordinates = function(mediaPoint) {\n  168: 	coordinates = mediaPoint.geo.coordinates;\n  169  	coordinates = coordinates.slice();\n  170: 	mediaPoint.y = breel.model.CANVAS.center.y + (coordinates[0] - 33.988269) * -100 * 320;\n  171: 	mediaPoint.x = breel.model.CANVAS.center.x + (coordinates[1] + 118.468355) * 100 * 512;\n  172  	return coordinates;\n  173  };\n\n/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/js/breel/app/MediaPoint.js:\n    1  declare(\"breel.app\");\n    2  \n    3: breel.app.MediaPoint = breel.app.MediaPoint || function(params) {\n    4  	var geo = null;\n    5  	$b.extend(this, new breel.display.DisplayObjectContainer());\n    .\n    7  \n    8  	var self = this;\n    9: 	self.objectClass = \"breel.app.MediaPoint\";\n   10  	self.isNew = true;\n   11  	self.animateIn = function(){\n\n/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/FirstFridayFun.sublime-workspace:\n  537  		},\n  538  		{\n  539: 			\"file\": \"js/breel/app/MediaPoint.js\",\n  540  			\"settings\":\n  541  			{\n  542  				\"buffer_size\": 517,\n  543  				\"line_ending\": \"Unix\",\n  544: 				\"name\": \"MediaPoint.js\"\n  545  			}\n  546  		},\n  ...\n 1311  				{\n 1312  					\"buffer\": 2,\n 1313: 					\"file\": \"js/breel/app/MediaPoint.js\",\n 1314  					\"settings\":\n 1315  					{\n ....\n 1327  						\"settings\":\n 1328  						{\n 1329: 							\"auto_name\": \"MediaPoint.js\",\n 1330  							\"is_xml\": false,\n 1331  							\"syntax\": \"Packages/JavaScript/JavaScript.tmLanguage\"\n\n/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/js/breel/app/MediaPoint.js:\n    1  declare(\"breel.app\");\n    2  \n    3: breel.app.MediaPoint = breel.app.MediaPoint || function(params) {\n    4  	var geo = null;\n    5  	$b.extend(this, new breel.display.DisplayObjectContainer());\n    .\n    7  \n    8  	var self = this;\n    9: 	self.objectClass = \"breel.app.MediaPoint\";\n   10  	self.isNew = true;\n   11  	self.animateIn = function(){\n\n/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/js/main.js:\n   29  \n   30  breel.model.ak = [\n   31: 	new breel.display.MediaPoint({\n   32  		geo: {\n   33  			coordinates: [33.992443, -118.473784]\n   34  		}\n   35: 	}), new breel.display.MediaPoint({\n   36  		geo: {\n   37  			coordinates: [33.991411, -118.46902]\n   38  		}\n   39: 	}), new breel.display.MediaPoint({\n   40  		geo: {\n   41  			coordinates: [33.99013, -118.464128]\n   42  		}\n   43: 	}), new breel.display.MediaPoint({\n   44  		geo: {\n   45  			coordinates: [33.989223, -118.462669]\n   46  		}\n   47: 	}), new breel.display.MediaPoint({\n   48  		geo: {\n   49  			coordinates: [33.985042, -118.470072]\n   50  		}\n   51: 	}), new breel.display.MediaPoint({\n   52  		geo: {\n   53  			coordinates: [33.991607, -118.475372]\n   ..\n  108  		record = data.results[i];\n  109  		if (record.type == \"truck\"){\n  110: 			trucks.push( new breel.display.MediaPoint(record) );\n  111  		} else {\n  112: 			standard.push( new breel.display.MediaPoint(record) );\n  113  		}\n  114  	}\n  ...\n  165  };\n  166  \n  167: breel.app.translateCoordinates = function(mediaPoint) {\n  168: 	coordinates = mediaPoint.geo.coordinates;\n  169  	coordinates = coordinates.slice();\n  170: 	mediaPoint.y = breel.model.CANVAS.center.y + (coordinates[0] - 33.988269) * -100 * 320;\n  171: 	mediaPoint.x = breel.model.CANVAS.center.x + (coordinates[1] + 118.468355) * 100 * 512;\n  172  	return coordinates;\n  173  };\n\n38 matches across 6 files\n",
+			"settings":
+			{
+				"buffer_size": 5172,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "js/breel/app/MediaPoint.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "MediaPoint.js"
+			}
+		},
+		{
+			"file": "js/breel/Bootstrap.js",
+			"settings":
+			{
+				"buffer_size": 1610,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"lint",
+				"Tag: Lint Selection or Document"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"min",
+				"Minify Javascript"
+			],
+			[
+				"ta",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"au",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"aut",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"AU",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"FORM",
+				"Format: Javascript"
+			],
+			[
+				"FOR",
+				"Format: Javascript"
+			],
+			[
+				"pre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"j",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"contr",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/js/breel/display/DisplayObject.js",
+		"/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/js/breel/display/Div.js",
+		"/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/js/breel/display/Stage.js",
+		"/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/js/breel/display/DisplayObjectContainer.js",
+		"/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/js/breel/Bootstrap.js",
+		"/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/test.php",
+		"/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun/data/foodTruckData.json",
+		"/Library/WebServer/Documents/workspace/Experiments/clickable_html5_video_Test/snapshot_page.html",
+		"/Library/WebServer/Documents/workspace/Experiments/clickable_html5_video_Test/index.html",
+		"/Library/WebServer/Documents/workspace/Experiments/clickable_html5_video_Test/js/breel/Bootstrap.js",
+		"/Library/WebServer/Documents/workspace/Experiments/clickable_html5_video_Test/data/cuepoints.json",
+		"/Library/WebServer/Documents/workspace/Experiments/clickable_html5_video_Test/css/normalize.css",
+		"/Library/WebServer/Documents/workspace/Experiments/clickable_html5_video_Test/js/vendor/modernizr-2.6.1.min.js",
+		"/Library/WebServer/Documents/workspace/Experiments/clickable_html5_video_Test/css/main.css",
+		"/Library/WebServer/Documents/workspace/Kahlua_La_Mirada/src/app/control/VideoHolder.as",
+		"/Library/WebServer/Documents/workspace/Kahlua_La_Mirada/bin/web.config",
+		"/Library/WebServer/Documents/workspace/Clockwork/flash/source/Track.as",
+		"/Library/WebServer/Documents/workspace/Kahlua_La_Mirada/src/app/control/UI.as",
+		"/Library/WebServer/Documents/workspace/Kahlua_La_Mirada/bin/data/sitedata.json",
+		"/Library/WebServer/Documents/workspace/Kahlua_La_Mirada/src/app/control/AbstractController.as",
+		"/Library/WebServer/Documents/workspace/Kahlua_La_Mirada/src/app/components/Hotspot.as",
+		"/Library/WebServer/Documents/workspace/Kahlua_La_Mirada/src/global/Model.as",
+		"/Library/WebServer/Documents/workspace/Kahlua_La_Mirada/src/app/control/DrinkGallery.as",
+		"/Library/WebServer/Documents/workspace/Kahlua_La_Mirada/src/app/control/DrinkGalleryPage0.as",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/jquery.ajaxfileupload.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/locale/us.json",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/watch_page.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_gallery.watchVideosCarousel.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.Carousel.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/css/style.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/api_cache2.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/refreshData.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_form.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_choosePhoto.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/index.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.utils.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/script.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/api_cache.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_gallery.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/watch/index.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/TM.php",
+		"/Library/WebServer/Documents/phpinfo.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_home.featuredVideosCarousel.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/watch_script.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_chooseScene.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_nav.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_webcam.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_chooseScene.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/api_cache2.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/ultrabook_page.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/ultrabook/index.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_nav.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_gallery.videoPlayer.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_gallery.photoPlayer.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.PageSwitcher.js",
+		"/Library/WebServer/Documents/workspace/PersonOfInterest_TheMachine/.gitignore",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_howItWorks.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_intro.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_confirm.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_home.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/swfobject.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_webcam_recorder.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_webcam2.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/trackingPixels_normal.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/trackingPixels_confirm.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/record_webcam_arch.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_photos.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_nav.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.DropDown.js",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/ultrabook_script.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/jquery-1.7.2.min.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/jquery.pp.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/contentDataGetter.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/base64.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_nav.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/css/tube.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/ogTags.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/contentPlacer.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/modal_videoPlayer.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_confirm.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/.htaccess",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/use.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/old_script.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/privacy/css/style.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/css/style.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/css/old_style.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_record.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/photos_intro.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/en.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/main_audition.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/libs/jquery.xml2json.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/lang/en.xml",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/locale/us.xml",
+		"/var/folders/sk/1bzjt9qd2gz7x64qdq8cp0kc0000gn/T/sublime-svn-1342821307/SVN",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/debugTools.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.Paginator.js",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.RadioGroup.js",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/JsMinifier/Minifier.sublime-settings",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/User/JSHINT.sublime-settings",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/sublime-V8/JSHINT.sublime-settings",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/css/video-js.css",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/modal_photoPicker.php",
+		"/Library/WebServer/Documents/workspace/Experiments/iframeTest/child.html",
+		"/Library/WebServer/Documents/workspace/Experiments/iframeTest/index.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/zh.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/ch.html",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/terms/pt.html",
+		"/var/folders/sk/1bzjt9qd2gz7x64qdq8cp0kc0000gn/T/sublime-svn-1342142296/SVN",
+		"/var/folders/sk/1bzjt9qd2gz7x64qdq8cp0kc0000gn/T/sublime-svn-1342142256/SVN",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/services/pass.php",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel/breel.paginator.js",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/var/folders/sk/1bzjt9qd2gz7x64qdq8cp0kc0000gn/T/sublime-svn-1341622616/SVN",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/inside.sublime-project",
+		"/Users/patrickgunderson/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>,/Library/WebServer/Documents/workspace/FirstFridayFoodtruckFun",
+			"<open folders>",
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel",
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/js/breel,/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules",
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel",
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside/flash/fla/tm_webcam_test",
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel",
+			"",
+			"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"translateCoordinateArray",
+			"breel.display.MediaPoint",
+			"MediaPoint",
+			"siteData",
+			"range(",
+			"clearRect",
+			"breel.plot.fieldCanvas",
+			"endCarousel",
+			"itemImages",
+			"itemHolder",
+			"\"150\"",
+			"\"400\"",
+			"480p",
+			"720p",
+			"1080p",
+			"http://image.com/dir/150.jpg",
+			"itemHolder",
+			"ui",
+			"text/template",
+			"http://test-lamirada.kahlua.com/share/blackRussian_90x90.png",
+			"http://localhost",
+			"http://localhost/",
+			"http://www.Kahlua-la-mirada.com.php53-28.dfw1-2.websitetestlink.com/",
+			"http://www.Kahlúa.com",
+			"assets.hit",
+			"breel.fbPhotoPicker.chosenPhotoData",
+			"yt_player = ",
+			".watch_btn",
+			".lik",
+			"class=\"watch_info\"",
+			"watch_h",
+			",",
+			"data.content[index].site_media_id",
+			"ccHintTimer",
+			"if_nextEpisode",
+			"playerStateChange",
+			"watchVideosCarouselSortCountryDD.getButtonFunction",
+			"refreshGallery",
+			"addContent(",
+			"breel.fbPhotoPicker.submitPhotoComplete",
+			"submitPhotoComplete",
+			"api_cache",
+			"api_cache.php",
+			"$force_refresh",
+			"getFromMemcache",
+			"controls",
+			"yt_container",
+			"\n",
+			"mediaLinkData",
+			"addPageToHolder",
+			"mediaLinkData",
+			"makeCarouselI",
+			"mediaLinkData",
+			"linkifyCarouselItem",
+			"pages",
+			"this.pages",
+			"showCarouselPage",
+			"getCarouselPage",
+			"showCarouselPage",
+			"addPageToHolder",
+			"append",
+			"showCarouselPage",
+			"getwatchVideosCarouselDataComplete",
+			"carouselNav",
+			"trace",
+			"timeline_cta",
+			"yt_under_table",
+			"fb.",
+			"yt_container",
+			".playing",
+			"loadVideoById",
+			"cuev",
+			"cueV",
+			"shareFilmOnFB",
+			"$m",
+			"breel.scrollTo",
+			"breel.scrollTo\n",
+			"loginToFB",
+			"FB",
+			"selectButton",
+			"chooseSceneButton",
+			"uploadButtonClick",
+			"tm_uploader",
+			"playerStateChange",
+			"_abbr",
+			"carouselNav",
+			"trackMediaView",
+			"_tra",
+			"showLoad",
+			"breel.PAGE_READY",
+			"ultra_promotion_ja",
+			"#ultra_promotion",
+			"unlink",
+			"breel.dynamicContent.photos",
+			"breel.dynamicContent.scene",
+			"content_id",
+			"setSize",
+			"plugin =",
+			"plugin",
+			"testPlayerVersion",
+			"appendChild",
+			"t=b.appendChild",
+			".setSize(",
+			"FB.init",
+			"FB.Canvas",
+			"auto",
+			"http://",
+			"TAB_URL",
+			"data.results.content[i].user_id",
+			"a{",
+			".cta",
+			"unbind",
+			"downScroller",
+			"photosSceneCarousel.quickTransition",
+			"quickTransition",
+			"photosSceneDetailsHolderTemplate",
+			"photosSceneDetail",
+			"sceneDetail",
+			"ceneDetailsHolder",
+			"photoSceneOutline",
+			"#sceneOutline",
+			"sceneList",
+			"breel.root.pageLoadAnimationComplete",
+			"showContent",
+			"contentNav",
+			"breel.photosSceneCarousel",
+			"breel.photosSceneCarousel.",
+			"loadSceneDetails"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"breel.app.display.MediaPoint",
+			"breel.app.plot.fieldCanvas",
+			"\"_160\"",
+			"\"_480\"",
+			"_480p",
+			"_720p",
+			"_1080p",
+			"img/scene1.png",
+			"sceneHolder",
+			"http://test-lamirada.kahlua.com/share/90x90/blackRussian.png",
+			"http://test-lamirada.kahlua.com/share/blackRussian_90x90.png",
+			"http://test-lamirada.kahlua.com/",
+			"http://Kahlua.com",
+			"hit",
+			"class=\"watch_info\" yt_id=\"0\"",
+			"vidId",
+			"talk_cta",
+			"cueVideoById",
+			"$memcache",
+			"@unlink",
+			"photosSceneDetail",
+			"#photoSceneOutline",
+			"photoSceneList",
+			"photosSceneCarousel",
+			"-webkit-background-size: 759px 3743px;background: url(\"https://beautyinside.thismoment.com/breel/img/ultrabook_spritesheet.jpg\")",
+			"self",
+			"https://beauty",
+			"spinner1",
+			"Arial",
+			"Ariel",
+			"beautyinside.thismoment.com",
+			"_info .watch_release\"",
+			"indexOfEpisodeByCategoryName",
+			"yt_player",
+			"yt_player.",
+			"\n	<script src=\"js/breel/breel.PageSwitcher.js\"></script>",
+			"this",
+			"thie",
+			",",
+			"url(\"http://beautyinside.thismoment.com/breel/img/",
+			"onmousedown=",
+			"url('http://beautyinside.thismoment.com/breel/img/",
+			"url(http://beautyinside.thismoment.com/breel/img/",
+			"url(\"http://beautyinside.thismoment.com/breel/img/",
+			"\"<?=$APP_ROOT?>img/",
+			"</li><li>",
+			".hide();",
+			".css(\"display\",\"none\");",
+			"inline-block",
+			"<sup>*</sup></div>",
+			"submitForm_country_option",
+			"recordFormCountryDD",
+			"submitForm_country_option",
+			"submitForm_year_option",
+			"ultrabook_spritesheet.jpg",
+			"categoryName",
+			".css(\"display\",\"table-cell\")",
+			".css(\"display\",\"none\").",
+			".css(\"display\",\"none\")",
+			"submitForm_month_option",
+			"ultrabook_spritesheet",
+			",",
+			"../img/",
+			"../img",
+			"../img/spriteSheet",
+			"../img/ultrabook",
+			"watchVideosCarousel",
+			":,\nwatchVideosCarousel",
+			":, \n					",
+			":,\n",
+			":,\\n",
+			"6e82b7",
+			"6e82b7\n6e82b7",
+			"upload_photo",
+			"gotoPageFunction"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2791,
+								2791
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 113.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 12728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4472,
+								4472
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 20.0,
+						"translation.y": 2105.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 5172,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										190,
+										200
+									],
+									[
+										325,
+										335
+									],
+									[
+										442,
+										452
+									],
+									[
+										570,
+										580
+									],
+									[
+										821,
+										831
+									],
+									[
+										939,
+										949
+									],
+									[
+										1056,
+										1066
+									],
+									[
+										1173,
+										1183
+									],
+									[
+										1291,
+										1301
+									],
+									[
+										1409,
+										1419
+									],
+									[
+										1606,
+										1616
+									],
+									[
+										1689,
+										1699
+									],
+									[
+										1805,
+										1815
+									],
+									[
+										1841,
+										1851
+									],
+									[
+										1920,
+										1930
+									],
+									[
+										2016,
+										2026
+									],
+									[
+										2288,
+										2298
+									],
+									[
+										2311,
+										2321
+									],
+									[
+										2514,
+										2524
+									],
+									[
+										2744,
+										2754
+									],
+									[
+										2879,
+										2889
+									],
+									[
+										2996,
+										3006
+									],
+									[
+										3124,
+										3134
+									],
+									[
+										3385,
+										3395
+									],
+									[
+										3408,
+										3418
+									],
+									[
+										3611,
+										3621
+									],
+									[
+										3824,
+										3834
+									],
+									[
+										3942,
+										3952
+									],
+									[
+										4059,
+										4069
+									],
+									[
+										4176,
+										4186
+									],
+									[
+										4294,
+										4304
+									],
+									[
+										4412,
+										4422
+									],
+									[
+										4609,
+										4619
+									],
+									[
+										4692,
+										4702
+									],
+									[
+										4808,
+										4818
+									],
+									[
+										4844,
+										4854
+									],
+									[
+										4923,
+										4933
+									],
+									[
+										5019,
+										5029
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"detect_indentation": false,
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"output_tag": 1,
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/breel/app/MediaPoint.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "MediaPoint.js",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/breel/Bootstrap.js",
+					"settings":
+					{
+						"buffer_size": 1610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 67.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Library/WebServer/Documents/workspace/toshiba_intel_beauty_inside_thismoment/docroot/breel/modules/audition_chooseScene.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true
+}

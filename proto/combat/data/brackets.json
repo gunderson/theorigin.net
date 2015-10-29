@@ -1,0 +1,33 @@
+{
+	{
+	"tournament": {
+		"id": 0,
+		"location": "",
+		"logo": "",
+		"startTime": ""
+	}, 
+	"brackets":[
+		{
+			"startTime" : "",
+			"status": "pre",
+			"sex": "Male",
+			"age": "Adult",
+			"weight": "Absolute",
+			"rank": "Black Belt",
+			"time": 600,
+			"competitors": [
+				{"name": "Player 0 1", "academy": "School 0", "id": 0},
+				{"name": "Player 1 1", "academy": "School 1", "id": 0},
+				{"name": "Player 2 1", "academy": "School 2", "id": 0},
+				{"name": "Player 3 1", "academy": "School 3", "id": 0},
+				{"name": "Player 4 1", "academy": "School 4", "id": 0},
+				{"name": "Player 5 1", "academy": "School 5", "id": 0},
+				{"name": "Player 6 1", "academy": "School 6", "id": 0},
+				{"name": "Player 7 1", "academy": "School 7", "id": 0}
+			],
+			"rounds":[[]],
+			"numRounds": null,
+			"seedOrder": null
+		}
+	]}
+}
